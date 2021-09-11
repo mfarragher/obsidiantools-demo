@@ -1,0 +1,7 @@
+markdown
+html2text
+pandas
+numpy
+networkx
+matplotlib  # for demo
+scipy  # for demo
