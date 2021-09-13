@@ -1,3 +1,4 @@
+obsidiantools  # lib
 markdown
 html2text
 pandas
