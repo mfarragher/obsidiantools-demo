@@ -12,4 +12,4 @@ Check out the notebook through Binder on a pre-configured virtual machine.  Ther
 ### Dummy vault
 The dummy vault is the `vault-sub` directory.  This is how the graph looks in NetworkX:
 
-[[/img/demo-vault-networkx-graph.png|NetworkX graph]]
+![NetworkX graph](/img/demo-vault-networkx-graph.pngraw=true "NetworkX graph")
