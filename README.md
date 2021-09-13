@@ -8,3 +8,8 @@ Check out the notebook through Binder on a pre-configured virtual machine.  Ther
 |---|---|
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mfarragher/obsidiantools-demo/HEAD?filepath=obsidiantools%20in%2010%20minutes.ipynb)|Launch the repo and explore notebooks interactively with Binder.|
 |[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mfarragher/obsidiantools-demo/blob/main/obsidiantools%20in%2010%20minutes.ipynb)|Launch the repo and see static notebook output in nbviewer|
+
+### Dummy vault
+The dummy vault is the `vault-sub` directory.  This is how the graph looks in NetworkX:
+
+[[/img/demo-vault-networkx-graph.png|NetworkX graph]]
