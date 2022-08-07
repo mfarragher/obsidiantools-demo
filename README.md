@@ -1,7 +1,7 @@
 # obsidiantools demo
 This is a public repo for exploring the functionality of `obsidiantools` as a Binder project.
 
-## obsidiantools in 10 minutes
+## obsidiantools in 15 minutes
 Check out the notebook through Binder on a pre-configured virtual machine.  There is a basic Obsidian vault (set of 'lipsum' markdown files) configured on there to show the functionality of the API.
 
 |**Notebook**|**Info**|
