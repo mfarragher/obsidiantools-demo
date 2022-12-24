@@ -7,6 +7,7 @@ Check out the notebook through Binder on a pre-configured virtual machine.  Ther
 ## wiki
 See the [wiki](https://github.com/mfarragher/obsidiantools/wiki) for more detail on `obsidiantools`.  This also includes recipes of code.
 
+## Notebooks
 |**Notebook**|**Info**|
 |---|---|
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mfarragher/obsidiantools-demo/HEAD?filepath=obsidiantools%20in%2015%20minutes.ipynb)|Launch the repo and explore notebooks interactively with Binder.|
