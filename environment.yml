@@ -1,4 +1,4 @@
-name: python 3.11
+name: python 3.10
 dependencies:
-  - python=3.11
+  - python=3.10
 
